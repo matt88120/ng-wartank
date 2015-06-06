@@ -1,0 +1,14 @@
+{
+  "name": "wartank",
+  "description": "Online and realtime wartank game",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-route": "X",
+    "angular-loader": "X",
+    "angular-mocks": "X",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
