@@ -7,7 +7,6 @@ angular.module('myApp.view1', ['ngRoute'])
     templateUrl: 'view1/view1.html',
     controller: 'View1Ctrl'
   });
-  $locationProvider.html5Mode(true);
 }])
 
 .controller('View1Ctrl', [function() {

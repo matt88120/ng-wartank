@@ -1,2 +1,4 @@
 <p>La room passée en URL est la <span ng-bind="room"></span> ! </p>
-
+<ul>
+    <li ng-repeat="item in data">{{item.name | uppercase}} {{item.message}}</li>
+</ul>

@@ -7,7 +7,6 @@ angular.module('myApp.view2', ['ngRoute'])
     templateUrl: 'view2/view2.html',
     controller: 'View2Ctrl'
   });
-   $locationProvider.html5Mode(true);
 }])
 
 .controller('View2Ctrl', [function() {
