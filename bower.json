@@ -10,6 +10,6 @@
     "angular-loader": "X",
     "angular-mocks": "X",
     "html5-boilerplate": "~4.3.0",
-    "bootstrap":"3.x"
+    "angular-material": "X"
   }
 }
